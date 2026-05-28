@@ -40,15 +40,20 @@ When a request comes in, route it to the right agent:
 
 ### Project Registry
 
-*Projects will be added during OKR planning*
-
 | Project | Path | Primary Agent |
 |---------|------|---------------|
-| | | |
+| Ikigai Setup Integration | TBD | Viktor |
+| Feature Development | TBD | Viktor |
 
 ## OKRs
 
-*To be populated after work context discovery with Marco*
+**Current Quarter:** Q2 2025
+
+See full OKRs in `strategy/okrs/2025-Q2.md`
+
+### Summary
+- **O1:** Ship Ikigai Setup Integration (UI + Personio API)
+- **O2:** Deliver Core Features (define 3+, ship 2+, test & document)
 
 ## Rules
 

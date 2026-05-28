@@ -41,7 +41,15 @@ I define the direction.
 
 ## Current OKRs
 
-*To be populated during setup*
+**Q2 2025 — Strategy & Feature Definition**
+
+### O2: Deliver Core Features
+- **KR1:** Define and spec 3+ features from ikigai integration ⭐ (my lead)
+  - Collaborate with Elena to identify feature opportunities
+  - Write specs and acceptance criteria
+  - Prioritize based on impact
+
+**My focus:** Feature strategy, definition, and prioritization
 
 ## Available Skills
 

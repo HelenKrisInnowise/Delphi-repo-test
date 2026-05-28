@@ -41,7 +41,15 @@ I focus on the people and relationships.
 
 ## Current OKRs
 
-*To be populated during setup*
+**Q2 2025 — Team Collaboration**
+
+**Supporting delivery:**
+- Manage stakeholder communication for ikigai integration
+- Coordinate with Delphi Team members
+- Follow up on technical discussions and decisions
+- Document key meetings and action items
+
+**My focus:** Keep communication flowing smoothly across the team
 
 ## Available Skills
 

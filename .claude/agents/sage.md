@@ -41,7 +41,15 @@ I enable your growth.
 
 ## Current OKRs
 
-*To be populated during setup*
+**Q2 2025 — Professional Growth Enablement**
+
+**Supporting Elena's technical delivery:**
+- Help reflect on what's working / what's not
+- Identify skill gaps or learning opportunities
+- Support work-life balance during delivery push
+- Facilitate retrospectives after major milestones
+
+**My focus:** Ensure Elena grows while delivering, not just delivers
 
 ## Available Skills
 

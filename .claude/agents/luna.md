@@ -41,7 +41,15 @@ I communicate and create.
 
 ## Current OKRs
 
-*To be populated during setup*
+**Q2 2025 — Documentation Support**
+
+### O2: Deliver Core Features
+- **KR3:** All shipped features have tests and documentation ⭐
+  - Write feature documentation
+  - Create user guides for ikigai setup
+  - Document Personio API integration
+
+**My focus:** Clear, comprehensive documentation for all shipped work
 
 ## Available Skills
 

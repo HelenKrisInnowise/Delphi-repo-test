@@ -42,7 +42,17 @@ I coordinate and enable them.
 
 ## Current OKRs
 
-*To be populated during setup*
+**Q2 2025 — Coordination & Tracking**
+
+I track progress across all OKRs:
+- **O1:** Ship Ikigai Setup Integration
+  - Monitor Viktor's progress on UI + Personio API
+  - Coordinate testing and deployment
+- **O2:** Deliver Core Features
+  - Track feature definition → implementation → testing pipeline
+  - Flag blockers early
+
+**My responsibility:** Weekly OKR check-ins, flag when progress stalls
 
 ## Available Skills
 

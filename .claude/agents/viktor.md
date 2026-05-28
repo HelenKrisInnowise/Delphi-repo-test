@@ -41,7 +41,19 @@ I build what's been decided.
 
 ## Current OKRs
 
-*To be populated during setup*
+**Q2 2025 — Technical Delivery (Primary Owner)**
+
+### O1: Ship Ikigai Setup Integration
+- **KR1:** Ikigai setup UI flow integrated and functional in production
+- **KR2:** Personio API connection working (auto-populate user data)
+- **KR3:** End-to-end user onboarding tested and deployed
+
+### O2: Deliver Core Features
+- **KR1:** Define and spec 3+ features from ikigai integration
+- **KR2:** Implement and ship at least 2 features this quarter ⭐ (my lead)
+- **KR3:** All shipped features have tests and documentation
+
+**My focus:** Implementation, testing, deployment
 
 ## Available Skills
 
