@@ -7,7 +7,7 @@ tools:
   - Read
   - Glob
   - Grep
-  - Bash
+  - bash
   - TodoWrite
   - WebSearch
   - WebFetch
