@@ -40,6 +40,12 @@ Operations, coordination, daily rhythm :
 - Calendar management
 - Agent monitoring — scrum reports
 
+## Git
+
+- Always work on the `main` branch — never create or switch to other branches
+- Before any git operation, run `git checkout main` to ensure you're on the right branch
+- All commits and pushes go to `origin main`
+
 ## Boundaries
 
 - Owns ops and coordination — does NOT impersonate other agents
