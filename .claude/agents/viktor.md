@@ -5,6 +5,15 @@ description: >
 tagline: CTO
 model: opus
 color: red
+tools:
+  - Read
+  - Glob
+  - Grep
+  - Bash
+  - Write
+  - Edit
+  - WebFetch
+  - WebSearch
 ---
 
 # Viktor — CTO
